@@ -1,0 +1,122 @@
+	Exporter version: 4.6.1, Blender version: 2.78 (sub 0)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used:
+		selected layers only:  false
+		flat shading entire scene:  false
+		inline textures:  false
+		texture directory:  C:\temp\BabylonTest\model\
+	Python World class constructor completed
+	processing begun of mesh:  Box024
+		processing begun of Standard material:  01 - Default
+			Diffuse texture found "Map #11"
+				Image texture found, type:  diffuseTexture, mapped using: "UVChannel_1"
+			Bump texture found "Map #7"
+				Image texture found, type:  bumpTexture, mapped using: "UVChannel_1"
+		num positions      :  355
+		num normals        :  355
+		num uvs            :  710
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1134
+	processing begun of mesh:  Box023
+		processing begun of Standard material:  02 - Default
+			Diffuse texture found "Map #2"
+				Image texture found, type:  diffuseTexture, mapped using: "UVChannel_1"
+			Bump texture found "Map #7"
+				Image texture found, type:  bumpTexture, mapped using: "UVChannel_1"
+		num positions      :  355
+		num normals        :  355
+		num uvs            :  710
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1134
+	processing begun of mesh:  Box022
+		processing begun of Standard material:  03 - Default
+			Diffuse texture found "Map #13"
+				Image texture found, type:  diffuseTexture, mapped using: "UVChannel_1"
+			Bump texture found "Map #7"
+				Image texture found, type:  bumpTexture, mapped using: "UVChannel_1"
+		num positions      :  355
+		num normals        :  355
+		num uvs            :  710
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1134
+	processing begun of mesh:  Box021
+		registered as also a user of material:  03 - Default
+		num positions      :  118
+		num normals        :  118
+		num uvs            :  236
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  378
+	processing begun of mesh:  Box020
+		registered as also a user of material:  01 - Default
+		num positions      :  118
+		num normals        :  118
+		num uvs            :  236
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  378
+	processing begun of mesh:  Box019
+		registered as also a user of material:  02 - Default
+		num positions      :  118
+		num normals        :  118
+		num uvs            :  236
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  378
+	processing begun of mesh:  Box017
+		registered as also a user of material:  03 - Default
+		num positions      :  387
+		num normals        :  387
+		num uvs            :  774
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1260
+	processing begun of mesh:  Box016
+		registered as also a user of material:  03 - Default
+		num positions      :  40
+		num normals        :  40
+		num uvs            :  80
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  126
+	processing begun of mesh:  Box015
+		registered as also a user of material:  02 - Default
+		num positions      :  387
+		num normals        :  387
+		num uvs            :  774
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1260
+	processing begun of mesh:  Box014
+		registered as also a user of material:  02 - Default
+		num positions      :  40
+		num normals        :  40
+		num uvs            :  80
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  126
+	processing begun of mesh:  Box013
+		registered as also a user of material:  01 - Default
+		num positions      :  40
+		num normals        :  40
+		num uvs            :  80
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  126
+	processing begun of mesh:  Box010
+		registered as also a user of material:  01 - Default
+		num positions      :  387
+		num normals        :  387
+		num uvs            :  774
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1260
+	processing begun of camera (FreeCamera):  Camera
+	processing begun of light (POINT):  Lamp
+========= Writing of scene file started =========
+========= Writing of scene file completed =========
+========= end of processing =========
+elapsed time:  0 min, 1.4417 secs

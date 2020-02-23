@@ -1,0 +1,11 @@
+newmtl defaultMat
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd X:\Transfer Station\Objects\Rock_Fantasy_Spike_P_defaultMat_color.jpg
+map_Ks X:\Transfer Station\Objects\Rock_Fantasy_Spike_P_defaultMat_specular.jpg
+map_bump X:\Transfer Station\Objects\Rock_Fantasy_Spike_P_defaultMat_nmap.jpg
